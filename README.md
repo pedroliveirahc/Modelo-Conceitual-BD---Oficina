@@ -49,4 +49,3 @@ Versão tabular do modelo conceitual
 
 Descrição detalhada das entidades, relacionamentos e cardinalidades
 
-Documentação explicando o conceito e o contexto do projeto
